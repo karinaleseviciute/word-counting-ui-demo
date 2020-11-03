@@ -1,0 +1,22 @@
+/* /* table {
+    width: 100%;
+  }
+  
+  th.mat-sort-header-sorted {
+    color: black;
+  } */
+  
+table {
+    width: 500px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+th.mat-header-cell {
+    text-align: left;
+    max-width: auto;
+}
+
+.modal-content {
+    top: auto;
+} 
